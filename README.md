@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Shrestha</h1>
 <h3 align="center">A passionate IT student from Nepal, exploring the world of Cloud Computing, Web Development, and Open Source technologies.</h3>
 
-- 🌱 I’m currently learning **dotnet framework and devops courses.**
+- 🌱 I’m evolving in **DevOps and Web Architecture**
 
 - 📫 How to reach me **prajwal.shrestha5557@gmail.com**
 
