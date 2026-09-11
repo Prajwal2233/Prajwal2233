@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prajwal Shrestha</h1>
-<h3 align="center">A passionate IT student from Nepal, exploring the world of Cloud Computing, Web Development, and Open Source technologies.</h3>
+<h3 align="center">DevOps-focused engineer from Nepal, working hands-on with Kubernetes, GitOps, and cloud-native infrastructure.</h3>
 
-- 🌱 I’m evolving in **DevOps and Web Architecture**
+- 🔭 DevOps Intern @ eSewa (F1Soft Group)
+- 🌱 Deepening ArgoCD, OpenShift, and GitOps delivery
+- ☁️ AWS Certified Cloud Practitioner | RHCSA
 
 - 📫 How to reach me **prajwal.shrestha5557@gmail.com**
 
