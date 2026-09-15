@@ -3,7 +3,7 @@
 
 - 🔭 DevOps Intern @ eSewa (F1Soft Group)
 - 🌱 Deepening ArgoCD, OpenShift, and GitOps delivery
-- ☁️ AWS Certified Cloud Practitioner | RHCSA
+- ☁️ AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner | RHCSA
 
 - 📫 How to reach me **prajwal.shrestha5557@gmail.com**
 
